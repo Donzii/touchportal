@@ -2,6 +2,10 @@
 Touch Portal the Remote macro control deck for PC and Mac OS for streamers, gamers, content creators and all other professionals
 https://www.touch-portal.com
 
+# fresh v4.2 for Ubuntu (appimage) and Android here: https://www.touch-portal.com/#downloadstitle
+
+4.0 and 3.1 are obsolet
+
 
 ![TwitchBanner](https://github.com/Donzii/touchportal/assets/7527643/1a0b0b0c-236d-4e12-b6cc-74f73407b5de)
 
